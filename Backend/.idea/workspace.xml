@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b4629c7-6f04-4b1b-8d02-d8772cba00fb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/java/com/cs309/chat/WebSocketConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/java/com/cs309/chat/WebSocketConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/java/com/cs309/chat/WebSocketServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/java/com/cs309/chat/WebSocketServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/java/com/cs309/chat/flControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/java/com/cs309/chat/flControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/java/com/cs309/chat/flDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/java/com/cs309/chat/flDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/java/com/cs309/chat/friendList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/java/com/cs309/chat/friendList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/java/com/cs309/chat/loginControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/java/com/cs309/chat/loginControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/java/com/cs309/chat/userDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/java/com/cs309/chat/userDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/java/com/cs309/chat/userLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/java/com/cs309/chat/userLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/back_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/back_index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/demo3/taskmanager/TaskController.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/demo3/taskmanager/TaskController.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/demo3/taskmanager/TaskDatabase.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/demo3/taskmanager/TaskDatabase.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/demo3/taskmanager/myTask.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/demo3/taskmanager/myTask.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/demo3/taskmanager/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/demo3/taskmanager/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/demo3/taskmanager/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/demo3/taskmanager/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/demo3/taskmanager/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/demo3/taskmanager/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/index-files/index-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/index-files/index-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/index-files/index-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/index-files/index-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/index-files/index-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/back_api/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/chat_room.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/chat_room.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/com/cs309/loginscreen/Model/IServerListener.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/com/cs309/loginscreen/Model/IServerListener.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/com/cs309/loginscreen/Model/ServerRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/com/cs309/loginscreen/Model/ServerRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/com/cs309/loginscreen/Model/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/com/cs309/loginscreen/Model/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/com/cs309/loginscreen/Model/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/com/cs309/loginscreen/Model/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/com/cs309/loginscreen/Model/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/com/cs309/loginscreen/Model/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/com/cs309/loginscreen/Presenter/AddTaskPresenter.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/com/cs309/loginscreen/Presenter/AddTaskPresenter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/com/cs309/loginscreen/Presenter/AllTaskPresenter.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/com/cs309/loginscreen/Presenter/AllTaskPresenter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/com/cs309/loginscreen/Presenter/AllTaskPresenter.myHolder.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/com/cs309/loginscreen/Presenter/AllTaskPresenter.myHolder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/com/cs309/loginscreen/Presenter/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/com/cs309/loginscreen/Presenter/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/com/cs309/loginscreen/Presenter/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/com/cs309/loginscreen/Presenter/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/com/cs309/loginscreen/Presenter/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/com/cs309/loginscreen/Presenter/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/com/cs309/loginscreen/View/AddTask.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/com/cs309/loginscreen/View/AddTask.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/com/cs309/loginscreen/View/AllTasks.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/com/cs309/loginscreen/View/AllTasks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/com/cs309/loginscreen/View/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/com/cs309/loginscreen/View/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/com/cs309/loginscreen/View/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/com/cs309/loginscreen/View/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/com/cs309/loginscreen/View/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/com/cs309/loginscreen/View/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/front_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/front_index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/index-files/index-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/index-files/index-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/index-files/index-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/overview-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/overview-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/overview-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/front_api/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/src/main/resources/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/src/main/resources/static/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Friendslist/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Friendslist/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Friendslist/src/main/java/friendslist/demo3/SpringFoxConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Friendslist/src/main/java/friendslist/demo3/SpringFoxConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Friendslist/src/main/java/friendslist/demo3/flControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Friendslist/src/main/java/friendslist/demo3/flControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Friendslist/src/main/java/friendslist/demo3/flDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Friendslist/src/main/java/friendslist/demo3/flDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Friendslist/src/main/java/friendslist/demo3/friendList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Friendslist/src/main/java/friendslist/demo3/friendList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterController/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MasterController/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterController/src/main/java/demo4/mastercontroller/SpringFoxConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterController/src/main/java/demo4/mastercontroller/SpringFoxConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterController/src/main/java/demo4/mastercontroller/loginControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterController/src/main/java/demo4/mastercontroller/loginControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterController/src/main/java/demo4/mastercontroller/userDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterController/src/main/java/demo4/mastercontroller/userDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterController/src/main/java/demo4/mastercontroller/userLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterController/src/main/java/demo4/mastercontroller/userLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/java/demo3/taskmanager/SpringFoxConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/java/demo3/taskmanager/SpringFoxConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/java/demo3/taskmanager/TaskController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/java/demo3/taskmanager/TaskController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/java/demo3/taskmanager/WebSocketConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/java/demo3/taskmanager/WebSocketConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/java/demo3/taskmanager/WebSocketServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/java/demo3/taskmanager/WebSocketServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/java/demo3/taskmanager/myTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/java/demo3/taskmanager/myTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/back_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/back_index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/demo3/taskmanager/TaskController.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/demo3/taskmanager/TaskController.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/demo3/taskmanager/TaskDatabase.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/demo3/taskmanager/TaskDatabase.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/demo3/taskmanager/myTask.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/demo3/taskmanager/myTask.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/demo3/taskmanager/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/demo3/taskmanager/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/demo3/taskmanager/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/demo3/taskmanager/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/demo3/taskmanager/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/demo3/taskmanager/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/index-files/index-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/index-files/index-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/index-files/index-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/index-files/index-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/index-files/index-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/back_api/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/chat_room.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/chat_room.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/com/cs309/loginscreen/Model/IServerListener.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/com/cs309/loginscreen/Model/IServerListener.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/com/cs309/loginscreen/Model/ServerRequest.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/com/cs309/loginscreen/Model/ServerRequest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/com/cs309/loginscreen/Model/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/com/cs309/loginscreen/Model/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/com/cs309/loginscreen/Model/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/com/cs309/loginscreen/Model/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/com/cs309/loginscreen/Model/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/com/cs309/loginscreen/Model/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/com/cs309/loginscreen/Presenter/AddTaskPresenter.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/com/cs309/loginscreen/Presenter/AddTaskPresenter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/com/cs309/loginscreen/Presenter/AllTaskPresenter.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/com/cs309/loginscreen/Presenter/AllTaskPresenter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/com/cs309/loginscreen/Presenter/AllTaskPresenter.myHolder.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/com/cs309/loginscreen/Presenter/AllTaskPresenter.myHolder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/com/cs309/loginscreen/Presenter/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/com/cs309/loginscreen/Presenter/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/com/cs309/loginscreen/Presenter/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/com/cs309/loginscreen/Presenter/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/com/cs309/loginscreen/Presenter/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/com/cs309/loginscreen/Presenter/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/com/cs309/loginscreen/View/AddTask.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/com/cs309/loginscreen/View/AddTask.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/com/cs309/loginscreen/View/AllTasks.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/com/cs309/loginscreen/View/AllTasks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/com/cs309/loginscreen/View/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/com/cs309/loginscreen/View/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/com/cs309/loginscreen/View/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/com/cs309/loginscreen/View/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/com/cs309/loginscreen/View/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/com/cs309/loginscreen/View/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/front_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/front_index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/index-files/index-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/index-files/index-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/index-files/index-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/overview-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/overview-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/overview-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/front_api/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/main/resources/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/main/resources/static/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserLogin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UserLogin/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserLogin/src/main/java/demo2l/userlogons/SpringFoxConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserLogin/src/main/java/demo2l/userlogons/SpringFoxConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserLogin/src/main/java/demo2l/userlogons/flControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserLogin/src/main/java/demo2l/userlogons/flControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserLogin/src/main/java/demo2l/userlogons/flDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserLogin/src/main/java/demo2l/userlogons/flDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserLogin/src/main/java/demo2l/userlogons/friendList.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserLogin/src/main/java/demo2l/userlogons/friendList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserLogin/src/main/java/demo2l/userlogons/loginControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserLogin/src/main/java/demo2l/userlogons/loginControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserLogin/src/main/java/demo2l/userlogons/userDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserLogin/src/main/java/demo2l/userlogons/userDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserLogin/src/main/java/demo2l/userlogons/userLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserLogin/src/main/java/demo2l/userlogons/userLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings_and_preferences/src/main/java/demo3/settings_and_preferences/PreferenceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/settings_and_preferences/src/main/java/demo3/settings_and_preferences/PreferenceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings_and_preferences/src/main/java/demo3/settings_and_preferences/preferences.java" beforeDir="false" afterPath="$PROJECT_DIR$/settings_and_preferences/src/main/java/demo3/settings_and_preferences/preferences.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kYxYaFGbCgiJYrrH4D2kEEliLd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Achievements" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b4629c7-6f04-4b1b-8d02-d8772cba00fb" name="Default Changelist" comment="" />
+      <created>1605891383239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605891383239</updated>
+      <workItem from="1605891385207" duration="104000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1605891486734">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605891486734" />
+  </component>
+</project>

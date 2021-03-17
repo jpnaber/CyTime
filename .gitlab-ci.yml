@@ -1,0 +1,98 @@
+stages:
+  - mavenbuild
+  - maventest
+  - autodeploy
+  - androidbuild
+  - androidtest
+
+maven-build:
+  stage: mavenbuild
+  tags:
+    - Backend
+  script:
+    - "cd Backend/Chat"
+    # - "cd Backend/Tasks"
+    - "mvn package -B"
+#  only:
+#    refs:
+#      - "master"
+#    changes:
+#      - "Backend/**/*"
+
+
+maven-test:
+  stage: maventest
+  tags:
+    - Backend
+  script:
+    - "cd Backend/Chat"
+    # - "cd Backend/Tasks"
+    - "mvn test"
+    - "mvn package -B"
+  artifacts:
+    paths:
+      - "Backend/Chat/target/*.jar"
+    #   - "Backend/Tasks/target/*.jar"
+#  only:
+#    refs:
+#      - master
+#    changes:
+#      - Backend/**/*
+
+autoDeploy:
+  stage: autodeploy
+  tags:
+    - Backend
+  script:
+    - "cd Backend/Chat"
+    # - "cd Backend/Tasks"
+    - "mvn test"
+    - "mvn package -B"
+    - "sudo mv target/*.jar /target/web-demo.jar"
+    - "sudo systemctl stop system-web-demo"
+    - "sudo systemctl start system-web-demo"
+#  only:
+#    refs:
+#      - master
+#    changes:
+#      - Backend/**/*
+
+android-build:
+  image: javiersantos/android-ci:latest
+  stage: androidbuild
+  before_script:
+    - "export GRADLE_USER_HOME='pwd'/.GRADLE_USER_HOME"
+    - "chmod +x ./Frontend/LoginScreen/gradlew"
+  tags:
+    - FRONTEND
+  script:
+    - "cd Frontend/LoginScreen/"
+    - "./gradlew assemble"
+  artifacts:
+    paths:
+      - "Frontend/LoginScreen/app/build/outputs"
+#  only:
+#    refs:
+#      - master
+#    changes:
+#      - Frontend/**/*
+
+android-test:
+  image: javiersantos/android-ci:latest
+  stage: androidtest
+  before_script:
+    - "export GRADLE_USER_HOME='pwd'/.GRADLE_USER_HOME"
+    - "chmod +x ./Frontend/LoginScreen/gradlew"
+  tags:
+    - FRONTEND
+  script:
+    - "cd Frontend/LoginScreen/"
+    - "./gradlew test"
+  artifacts:
+    paths:
+      - "Frontend/LoginScreen/app/build/outputs"
+#  only:
+#    refs:
+#      - master
+#    changes:
+#      - Frontend/**/*

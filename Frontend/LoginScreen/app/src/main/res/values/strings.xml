@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login Screen</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="verification_msg">For security reasons, we need to first verify your identity.</string>
+    <string name="who_msg">Who are you?</string>
+    <string name="chat_init">Chat Room: Please Log in First</string>
+</resources>

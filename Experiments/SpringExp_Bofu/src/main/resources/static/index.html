@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Don't Procrastinate</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+
+<form action="/addTask" method="POST" id="taskForm">
+    <div>
+        <p>
+            <label for="nameField">Task name?</label>
+            <input name="name" id="nameField">
+        </p>
+        <p>
+            <label for="dueField">Due date?</label>
+            <input name="due" id="dueField">
+        </p>
+        <button>Add</button>
+    </div>
+</form>
+<form action="/deleteTaskId" method="post" id="deleteTaskForm">
+    <p>
+        <label for="idField">Task ID?</label>
+        <input name="id" id="idField">
+    </p>
+    <button>Delete</button>
+</form>
+<form action="/listTask" method="get" id="listTaskForm">
+    <p>
+        <button>List</button>
+    </p>
+</form>
+</body>
+</html>

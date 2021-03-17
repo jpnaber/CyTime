@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cs309.loginscreen">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="CyTime"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".View.MyFriends"></activity>
+        <activity android:name=".Splash">
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".View.Verification" />
+        <activity android:name=".View.Chat" />
+        <activity android:name=".View.Home" />
+        <activity android:name=".OtherView.friends" />
+        <activity android:name=".OtherView.settings" />
+
+        <meta-data
+            android:name="com.google.android.actions"
+            android:resource="@xml/network_security_config" />
+
+        <activity android:name=".View.AllTasks" />
+        <activity android:name=".View.AddTask" />
+        <activity android:name=".OtherView.newaccountActivity" />
+        <activity android:name=".OtherView.forgotpasswordActivity" />
+        <activity android:name=".OtherView.secondActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <receiver android:name=".OtherView.Notification_receiver" />
+    </application>
+
+</manifest>
